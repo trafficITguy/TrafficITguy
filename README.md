@@ -4,12 +4,11 @@ https://www.linkedin.com/in/briansantiago
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent career shifter with a profound interest in technology and a dedication to resolving complex problems.
+I am a IT Support Specialist with a profound interest in technology and a dedication to resolving complex problems.
 
 ## Objective
 
-My journey into learning more about technology has led me to develop a passion towards CyberSecurity, and I am now eager to transition into this field, specifically aiming to join as a Compliance Analyst or Auditor.
-
+My journey into learning more about technology has led me to develop a passion towards CyberSecurity, and I am now eager to transition into this field, specifically aiming to join as a Soc Analyst.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
