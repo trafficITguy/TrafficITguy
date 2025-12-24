@@ -5,7 +5,7 @@ https://www.linkedin.com/in/briansantiago
 
 I am an IT Support Specialist with hands on experience supporting enterprise environments and a strong focus on cybersecurity operations. I specialize in troubleshooting, log analysis, identity management, and security tooling, with a clear career objective of transitioning into a Security Operations Center as a Tier 1 Analyst. I am highly motivated, detail oriented, and continuously building practical security skills through labs and real world projects.
 
-## Objective
+## Career Objective
 
 To secure a SOC Tier 1 Analyst role where I can apply my experience in monitoring alerts, analyzing logs, responding to incidents, and strengthening security posture while continuing to grow within a fast paced security operations environment.
 ## Skills
@@ -20,8 +20,8 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools and Technologies
+
 
 ### Compliance Frameworks
 <div>
@@ -30,7 +30,7 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
     <img src="https://img.shields.io/badge/-ISO%2027001-005B94?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Tools
+### Security and Automation
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Log%20Parsing-4B275F?&style=for-the-badge&logoColor=white" />
@@ -46,8 +46,7 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
