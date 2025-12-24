@@ -9,7 +9,14 @@ I am an IT Support Specialist with hands on experience supporting enterprise env
 
 To secure a SOC Tier 1 Analyst role where I can apply my experience in monitoring alerts, analyzing logs, responding to incidents, and strengthening security posture while continuing to grow within a fast paced security operations environment.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+- Cloud native SIEM deployment and configuration using Microsoft Sentinel
+- Centralized log ingestion using Azure Log Analytics and data connectors
+- Creation and tuning of analytics rules and detection logic
+- Log analysis and querying using KQL
+- Alert triage and SOC style investigation workflows
+- Incident management including documentation and escalation
+- Automation principles using playbooks and insights within Sentinel
+- Using workbooks and dashboards for operational visibility
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
