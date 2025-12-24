@@ -5,7 +5,7 @@ Connect with me!
 
 
 
-I am an IT Support Specialist with hands on experience supporting enterprise environments and a strong focus on cybersecurity operations. I specialize in troubleshooting, log analysis, identity management, and security tooling, with a clear career objective of transitioning into a Security Operations Center as a Tier 1 Analyst. I am highly motivated, detail oriented, and continuously building practical security skills through labs and real world projects.
+I am an IT Support Specialist with a clear career objective of transitioning into a Security Operations Center as a Tier 1 Analyst. I am highly motivated, detail oriented, and continuously expanding on my knowledge.
 
 ## Career Objective
 
