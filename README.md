@@ -59,5 +59,5 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Implementation and Log Analysis
+- Microsoft Sentinel Security Monitoring
