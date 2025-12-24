@@ -2,13 +2,12 @@
 https://www.linkedin.com/in/briansantiago
 
 
-[Brief Introduction - Remove this afterwards]
 
-I am a IT Support Specialist with a profound interest in technology and a dedication to resolving complex problems.
+I am an IT Support Specialist with hands on experience supporting enterprise environments and a strong focus on cybersecurity operations. I specialize in troubleshooting, log analysis, identity management, and security tooling, with a clear career objective of transitioning into a Security Operations Center as a Tier 1 Analyst. I am highly motivated, detail oriented, and continuously building practical security skills through labs and real world projects.
 
 ## Objective
 
-My journey into learning more about technology has led me to develop a passion towards CyberSecurity, and I am now eager to transition into this field, specifically aiming to join as a Security Operations Center (SOC) as a Tier 1 Analyst.
+To secure a SOC Tier 1 Analyst role where I can apply my experience in monitoring alerts, analyzing logs, responding to incidents, and strengthening security posture while continuing to grow within a fast paced security operations environment.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
