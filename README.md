@@ -1,6 +1,7 @@
 # Hello, I'm Brian Santiago
 Connect with me! 
-https://www.linkedin.com/in/briansantiago
+<a href="https://www.linkedin.com/in/briansantiago"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 I am an IT Support Specialist with hands on experience supporting enterprise environments and a strong focus on cybersecurity operations. I specialize in troubleshooting, log analysis, identity management, and security tooling, with a clear career objective of transitioning into a Security Operations Center as a Tier 1 Analyst. I am highly motivated, detail oriented, and continuously building practical security skills through labs and real world projects.
