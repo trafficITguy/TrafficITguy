@@ -23,7 +23,7 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Microsoft Sentinel Security Monitoring | <a href="https://google.com">Detection Lab</a>|
+| Microsoft Sentinel Security Monitoring | <a href="https://github.com/trafficITguy/Microsoft-Sentinel-SIEM)">Microsoft Sentinel Lab</a>|
 
 
 ## Tools and Technologies
@@ -60,4 +60,4 @@ To secure a SOC Tier 1 Analyst role where I can apply my experience in monitorin
 
 ## Projects
 - SIEM Implementation and Log Analysis
-- Microsoft Sentinel Security Monitoring
+- <a href="https://github.com/trafficITguy/Microsoft-Sentinel-SIEM)">Microsoft Sentinel Lab</a>
